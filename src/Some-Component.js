@@ -14,6 +14,7 @@ const Text = () => {
                 <li>🦫</li>
                 <li>🌶</li>
             </ul>
+            <p>I have the munchies... 🧁</p>
         </Fragment>
     )
 }
